@@ -3,7 +3,7 @@
 }
 
 .side-bar {
-  background: #253141;
+  background-color: #253141;
   width: 300px;
   height: 100vh;
 }
@@ -14,13 +14,13 @@
 }
 
 .rooms {
-  background: #2f3e51;
+  background-color: #2f3e51;
   height: calc(100vh - 100px);
   padding: 0 20px;
 }
 
 .chat {
-  background: #ffffff;
+  background-color: #ffffff;
   width: calc(100vw - 300px);
 }
 
@@ -30,13 +30,13 @@
 }
 
 .messages {
-  background: #fafafa;
-  height: calc(100vh - 100px -90px);
-  padding: 46px 40px 0 ;
+  background-color: #fafafa;
+  height: calc(100vh - 100px - 90px);
+  padding: 46px 40px 0;
 }
 
 .form {
-  background: #dddddd;
+  background-color: #dddddd;
   height: 90px;
   padding: 20px 40px;
 }
